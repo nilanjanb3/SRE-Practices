@@ -114,7 +114,7 @@ components of SRE measurement culture.
 6. To make truly data-driven decisions, you need to remove any
 unconscious biases. 
 
-> Apply SRE in Your Organization
+> Apply SRE in Your Organization 🔄️
 
 1. **Kitchen Sink/”Everything SRE” team:** We recommend this approach
 for organizations that have few applications and user journeys and
