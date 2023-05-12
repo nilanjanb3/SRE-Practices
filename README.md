@@ -41,7 +41,7 @@ of your service from your users' perspective.
 * **Service level objective (SLO):** Sets the target for an SLI over a period
 of time.
 
-    ### *Key Notes*
+    ### *Key Notes:*
 
 1. The mission of SRE is to protect, provide for, and progress software
 and systems with consistent focus on availability, latency,
@@ -70,7 +70,7 @@ that group, and then deciding how to proceed.
 automatable, tactical, or without enduring value, or that scales
 linearly as the service grows. 
 
-    ### *Key Notes*
+    ### *Key Notes:*
 
 1. Change is best when small and frequent.
 2. Design thinking methodology has five phases: empathize, define,
@@ -98,7 +98,7 @@ and input from people whom you tend to gravitate toward.
 * **Labeling bias:** Tendency to form opinions based on how people look,
 dress, or appear externally.
 
-    ### *Key Notes*
+    ### *Key Notes:*
 
 1. Measure reliability with good service level indicators (SLIs).
 2. A good SLI correlates with user experience with your service; that is, a
